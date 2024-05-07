@@ -9,7 +9,7 @@ Eventually with enough iterations, the algorithm will be able to find a solution
 
 ## How to run
 * The 9x9 sudoku board is represented by the GRID variable. Simply paste your values here from online and the solver will solve them.
-* 
+  
 To run the solver, execute the following block of code below within the jupyter notebook:
 ```
 if solve(grid,0,0):
